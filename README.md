@@ -46,7 +46,7 @@ This repository showcases my technical learning, Linux practicals, shell scripti
 ## Contact
 
 - GitHub: https://github.com/jenashreyasi-EJB
-
+- **LinkedIn:** [Shreyasi Jena](https://www.linkedin.com/in/shreyasi-jena-291b3b430/)
 ---
 
 Created as part of my CSE103 coursework.
