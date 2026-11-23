@@ -1,0 +1,51 @@
+total 64
+drwxr-x--- 10 Shreyasi Shreyasi 4096 Nov 11 10:50 .
+drwxr-xr-x  3 root     root     4096 Oct 30 15:31 ..
+-rw-------  1 Shreyasi Shreyasi 5851 Nov 11 11:15 .bash_history
+-rw-r--r--  1 Shreyasi Shreyasi  220 Oct 30 15:31 .bash_logout
+-rw-r--r--  1 Shreyasi Shreyasi 3865 Nov 11 10:56 .bashrc
+drwxr-x---  4 Shreyasi Shreyasi 4096 Nov 11 10:27 .cache
+drwxr-x---  4 Shreyasi Shreyasi 4096 Oct 30 17:26 .config
+drwxr-xr-x  2 Shreyasi Shreyasi 4096 Oct 30 15:36 .landscape
+-rw-------  1 Shreyasi Shreyasi   20 Nov 11 10:50 .lesshst
+drwx------  3 Shreyasi Shreyasi 4096 Oct 30 17:39 .local
+-rw-r--r--  1 Shreyasi Shreyasi    0 Nov 23 16:48 .motd_shown
+-rw-r--r--  1 Shreyasi Shreyasi  807 Oct 30 15:31 .profile
+drwxr-xr-x  7 Shreyasi Shreyasi 4096 Oct 30 17:52 Downloads
+drwxr-xr-x  2 Shreyasi Shreyasi 4096 Nov  7 12:07 bin
+drwxr-xr-x  2 Shreyasi Shreyasi 4096 Oct 30 17:50 cse103_backups
+drwxr-xr-x  3 Shreyasi Shreyasi 4096 Oct 30 16:33 cse103_lab
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.2  0.1  24352 15392 ?        Ss   16:48   0:00 /sbin/init
+root           2  0.0  0.0   3820  2524 hvc0     Sl+  16:48   0:00 /init
+root           3  0.0  0.0   3680  2220 hvc0     S+   16:48   0:00 init-watcher
+root           8  0.0  0.0   3820  2296 hvc0     Sl+  16:48   0:00 plan9 --control-socket 7 --log-level 4 --server-fd 8 --pipe-fd 10 --log-truncate
+root          48  0.0  0.2  50676 17676 ?        S<s  16:48   0:00 /usr/lib/systemd/systemd-journald
+systemd+      83  0.0  0.1  22416 14440 ?        Ss   16:48   0:00 /usr/lib/systemd/systemd-resolved
+root          91  0.0  0.1  34824 12064 ?        Ss   16:48   0:00 /usr/lib/systemd/systemd-udevd
+root         155  0.0  0.0   2888  1944 ?        Ss   16:48   0:00 /bin/sh /usr/lib/systemd/scripts/chronyd-starter.sh -n -F 1
+root         156  0.0  0.0   4472  3160 ?        Ss   16:48   0:00 /usr/sbin/cron -f -P
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.18.58.1-microsoft-standard-WSL2
+/dev/sdb         97M   97M     0 100% /usr/src/linux-headers-6.18.58.1-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         270G  132G  139G  49% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.6G  955G   1% /
+none            3.8G   36K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  3.4M  3.8G   1% /init
+none            3.8G  532K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G   80K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   80K  3.8G   1% /mnt/wslg/doc
+C:\             270G  132G  139G  49% /mnt/c
+D:\             206G  100M  205G   1% /mnt/d
+tmpfs           3.8G     0  3.8G   0% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           778M   12K  778M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       520Mi       7.0Gi       4.1Mi       262Mi       7.1Gi
+Swap:          2.0Gi          0B       2.0Gi
