@@ -1,0 +1,24 @@
+======================================
+       SYSTEM INFORMATION REPORT
+======================================
+Name: Shreyasi Jena
+Roll Number: 2601730206
+Date: Mon Nov 23 17:19:28 UTC 2026
+
+---------- CPU INFORMATION ----------
+CPU Model:                               13th Gen Intel(R) Core(TM) i5-13420H
+Number of Cores: 6
+
+---------- MEMORY INFORMATION ----------
+Total Memory: 7.6Gi
+Used Memory: 545Mi
+
+---------- TOP 3 PROCESSES BY CPU ----------
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.1  24352 15392 ?        Ss   16:48   0:00 /sbin/init
+root          91  0.0  0.1  34824 12064 ?        Ss   16:48   0:00 /usr/lib/systemd/systemd-udevd
+root         177  0.0  0.3  44096 29868 ?        Ss   16:48   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+
+======================================
+Report generated successfully.
+======================================
